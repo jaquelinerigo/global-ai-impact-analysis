@@ -2,6 +2,12 @@
 
 ![Capa do Projeto](capa.png)
 
+## 🏆 Reconhecimento
+
+Este projeto foi selecionado entre os destaques da comunidade Datadriven no desafio **"Impacto da IA no Mercado Global"**.
+
+![Reconhecimento Datadriven](destaque-ia.png)
+
 🏆 Projeto selecionado entre os destaques da comunidade Datadriven no desafio "Impacto da IA no Mercado Global".
 
 Projeto desenvolvido em Power BI com o objetivo de analisar como a Inteligência Artificial impactou diferentes setores da sociedade e da economia mundial entre 2020 e 2025.
