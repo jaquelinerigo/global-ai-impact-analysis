@@ -9,7 +9,9 @@
 
 🏆 Este projeto foi selecionado entre os 10 destaques da comunidade Datadriven no desafio "Impacto da IA no Mercado Global".
 
-![Reconhecimento Datadriven](destaque-ia.jpeg)
+<p align="center">
+  <img src="destaque-ia.jpeg" alt="Reconhecimento Datadriven">
+</p>
 
 Projeto desenvolvido em Power BI com o objetivo de analisar como a Inteligência Artificial impactou diferentes setores da sociedade e da economia mundial entre 2020 e 2025.
 
@@ -79,3 +81,11 @@ Mudanças na criação e consumo de conteúdo digital.
 Desafios, riscos e oportunidades da Inteligência Artificial.
 
 ---
+
+## 📊 Principais Insights
+
+- A Inteligência Artificial acelerou a transformação digital em diversos setores da economia.
+- Saúde, Educação e Negócios estão entre os segmentos mais impactados pela adoção da IA.
+- O aumento dos investimentos em IA impulsionou ganhos de produtividade e inovação.
+- A automação vem transformando processos e apoiando a tomada de decisão baseada em dados.
+- O crescimento da IA traz desafios éticos, regulatórios e sociais que exigem atenção global.
