@@ -36,6 +36,16 @@ O dashboard completo pode ser acessado através do link abaixo:
 
 ---
 
+## 📊 Principais Insights
+
+- A Inteligência Artificial acelerou a transformação digital em diversos setores da economia.
+- Saúde, Educação e Negócios estão entre os segmentos mais impactados pela adoção da IA.
+- O aumento dos investimentos em IA impulsionou ganhos de produtividade e inovação.
+- A automação vem transformando processos e apoiando a tomada de decisão baseada em dados.
+- O crescimento da IA traz desafios éticos, regulatórios e sociais que exigem atenção global.
+
+---
+
 ## 🎯 Objetivo do Projeto
 
 Analisar o impacto da Inteligência Artificial no mercado global entre 2020 e 2025, explorando sua evolução histórica, adoção em diferentes setores e os reflexos na sociedade, economia e mercado de trabalho.
@@ -82,10 +92,4 @@ Desafios, riscos e oportunidades da Inteligência Artificial.
 
 ---
 
-## 📊 Principais Insights
 
-- A Inteligência Artificial acelerou a transformação digital em diversos setores da economia.
-- Saúde, Educação e Negócios estão entre os segmentos mais impactados pela adoção da IA.
-- O aumento dos investimentos em IA impulsionou ganhos de produtividade e inovação.
-- A automação vem transformando processos e apoiando a tomada de decisão baseada em dados.
-- O crescimento da IA traz desafios éticos, regulatórios e sociais que exigem atenção global.
