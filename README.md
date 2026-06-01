@@ -6,7 +6,7 @@
 
 Este projeto foi selecionado entre os destaques da comunidade Datadriven no desafio **"Impacto da IA no Mercado Global"**.
 
-![Reconhecimento Datadriven](destaque-ia.png)
+![Reconhecimento Datadriven](destaque-ia.jpeg)
 
 🏆 Projeto selecionado entre os destaques da comunidade Datadriven no desafio "Impacto da IA no Mercado Global".
 
