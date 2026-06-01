@@ -1,7 +1,9 @@
 # 🤖 Impacto da Inteligência Artificial no Mercado Global
 
 
-![Capa do Projeto](capa.png)
+<p align="center">
+  <img src="capa.png" alt="Capa do Projeto">
+</p>
 
 ## 🏆 Reconhecimento
 
