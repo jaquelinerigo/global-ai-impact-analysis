@@ -5,6 +5,12 @@
   <img src="capa.png" alt="Capa do Projeto">
 </p>
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-00BFFF?style=for-the-badge)
+![Storytelling](https://img.shields.io/badge/Data_Storytelling-FF6F61?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ## 🏆 Reconhecimento
 
 🏆 Este projeto foi selecionado entre os 10 destaques da comunidade Datadriven no desafio "Impacto da IA no Mercado Global".
