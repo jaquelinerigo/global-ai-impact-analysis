@@ -1,9 +1,7 @@
 # 🤖 Impacto da Inteligência Artificial no Mercado Global
 
 
-<p align="center">
-  <img src="capa.png" alt="Capa do Projeto">
-</p>
+<img src="images/capa.png" alt="Capa do Projeto">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
