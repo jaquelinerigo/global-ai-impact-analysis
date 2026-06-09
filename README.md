@@ -99,7 +99,9 @@ Desafios, riscos e oportunidades da Inteligência Artificial.
 ---
 ## 🧠 Principais Aprendizados
 
+
 Durante o desenvolvimento deste projeto foi possível aprofundar conhecimentos em:
+
 
 - Storytelling com dados para construção de narrativas analíticas.
 - Estruturação de dashboards interativos no Power BI.
@@ -108,6 +110,7 @@ Durante o desenvolvimento deste projeto foi possível aprofundar conhecimentos e
 - Desenvolvimento de análises voltadas para tomada de decisão e transformação digital.
 
  ## 🎯 Conclusão
+ 
 
 A Inteligência Artificial vem transformando rapidamente diferentes setores da sociedade e da economia global. Este projeto demonstra como a adoção da IA impacta áreas como Saúde, Educação, Mobilidade, Negócios, Entretenimento e Ética, evidenciando oportunidades, desafios e tendências que moldarão os próximos anos.
 
