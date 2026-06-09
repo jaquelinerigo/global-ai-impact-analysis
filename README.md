@@ -107,7 +107,7 @@ Durante o desenvolvimento deste projeto foi possível aprofundar conhecimentos e
 - Pesquisa e interpretação de tendências globais relacionadas à Inteligência Artificial.
 - Desenvolvimento de análises voltadas para tomada de decisão e transformação digital.
 
-  ## 🎯 Conclusão
+ ## 🎯 Conclusão
 
 A Inteligência Artificial vem transformando rapidamente diferentes setores da sociedade e da economia global. Este projeto demonstra como a adoção da IA impacta áreas como Saúde, Educação, Mobilidade, Negócios, Entretenimento e Ética, evidenciando oportunidades, desafios e tendências que moldarão os próximos anos.
 
