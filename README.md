@@ -1,7 +1,10 @@
 # 🤖 Impacto da Inteligência Artificial no Mercado Global
 
 
+
 <img src="images/capa.png" alt="Capa do Projeto">
+
+
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
@@ -9,11 +12,19 @@
 ![Storytelling](https://img.shields.io/badge/Data_Storytelling-FF6F61?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
+
 ## 🏆 Reconhecimento
+
+
 
 🏆 Este projeto foi selecionado entre os 10 destaques da comunidade Datadriven no desafio "Impacto da IA no Mercado Global".
 
+
+
 <img src="images/destaque-ia.jpeg" alt="Reconhecimento Datadriven">
+
+
 
 Projeto desenvolvido em Power BI com o objetivo de analisar como a Inteligência Artificial impactou diferentes setores da sociedade e da economia mundial entre 2020 e 2025.
 
